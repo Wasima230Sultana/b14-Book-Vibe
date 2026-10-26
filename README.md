@@ -6,6 +6,14 @@ Book Vibe is a modern book catalog web application built with Next.js. It allows
 
 Built with the Next.js App Router, React, TypeScript, and Tailwind CSS, Book Vibe provides a clean and responsive experience for book lovers.
 
+
+## 🌐 Live Demo
+
+**Explore Book Vibe:** [https://b14-book-vibe-mu.vercel.app/](https://b14-book-vibe-mu.vercel.app/)
+
+Try the live application to browse books, view book details, manage your reading lists, and explore reading statistics.
+
+
 ## ✨ Features
 
 - **Home Page:** Explore a welcoming hero banner and a featured collection of six books.
